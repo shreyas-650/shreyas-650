@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Shreyas Singh 👋
 
-<!--
-**shreyas-650/shreyas-650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GenAI Engineer | Full Stack Developer
 
-Here are some ideas to get you started:
+I'm a final-year Artificial Intelligence & Data Science student interested in
+Machine Learning, Generative AI, and full-stack development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- Python
+- Java
+- Machine Learning
+- NLP
+- Generative AI
+- React.js
+- Node.js
+- MongoDB
+- AWS
+
+### 🚀 Projects
+
+- 🎬 Movie Recommendation System — NLP + Streamlit
+- 💰 Expense Splitter — Node.js + MongoDB
+- 🌦️ Weather App — JavaScript
+
+### 🔗 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/shreyas650/) |
+[LeetCode](https://leetcode.com/u/shreyas650/)
