@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shreyas%20Singh&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20ML%20%7C%20Software%20Development&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Shreyas%20Singh&fontSize=50&fontColor=ffffff" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=4th-year+AI+%26+Data+Science+student;Building+ML+models+that+solve+real+problems;Hackathon+enthusiast+%F0%9F%8F%86;Always+learning%2C+always+shipping" alt="Typing SVG" /></a>
 
@@ -55,7 +55,7 @@
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=shreyas-650&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-650&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-650&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=shreyas-650&theme=tokyonight&hide_border=true" alt="streak" />
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyas-650&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://ghchart.rshah.org/00d4ff/shreyas-650" alt="Contribution chart" width="90%" />
 
 </div>
 
@@ -92,6 +92,6 @@
 
 *⭐ If you like what you see, drop a star on a repo!*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" alt="footer"/>
 
 </div>
