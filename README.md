@@ -4,8 +4,8 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=4th-year+AI+%26+Data+Science+student;Building+ML+models+that+solve+real+problems;Hackathon+enthusiast+%F0%9F%8F%86;Always+learning%2C+always+shipping" alt="Typing SVG" /></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&color=00d4ff)
+![Profile Views](https://komarev.com/ghpvc/?username=shreyas-650&label=Profile%20Views&color=0e75b6&style=flat-square)
+![Followers](https://img.shields.io/github/followers/shreyas-650?style=flat-square&color=00d4ff)
 
 </div>
 
@@ -52,10 +52,10 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=shreyas-650&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyas-650&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyas-650&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -66,8 +66,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | 🔥 **Industrial Fire Detection** | AI-based fire detection and classification for industrial settings (Smart India Hackathon 2026) | Python, Computer Vision, Deep Learning |
-| 🤖 **Project Name** | One-line description of what it does | Tech, Tech |
-| 🌐 **Project Name** | One-line description of what it does | Tech, Tech |
+| 🎬 **Movie Recommendation System** | Suggests movies based on user preferences and similarity between titles | Python, Pandas, scikit-learn |
 
 ---
 
@@ -75,7 +74,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyas-650&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -85,9 +84,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyas650)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyas.singh@outlook.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shreyassingh.dev)
 
 <br/>
 
